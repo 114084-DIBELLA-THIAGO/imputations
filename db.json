@@ -1,4 +1,4 @@
-[{
+{ "imputations" : [{
   "Id": 1,
   "ObjectID": 101,
   "AllVersionsIds": "1,2,3",
@@ -91,3 +91,4 @@
 }
 
 ]
+}
